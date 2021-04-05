@@ -23,32 +23,20 @@ My life quote is `"Jack of all trades, master of none"`
 ---
 ## Technologies I use
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redux.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/electron.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />
 
 ---
 ## technologies I know but don't use frequently
 
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftaccess.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/chart-dot-js.svg" />
-
 <img height="32" style="fill: blue" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/markdown.svg" />
