@@ -11,7 +11,7 @@ My life quote is `"Jack of all trades, master of none"`
 ## About me
 ---
 * 🖥️ Fullstack developer with interests in electronics
-* 👨‍💻 I know basic penetrations techniques and interested learns about cyber security
+* 👨‍💻 I know basic penetrations techniques and learns about cyber security
 
 ---
 ### My hobbies
