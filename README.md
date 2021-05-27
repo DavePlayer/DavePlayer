@@ -10,7 +10,6 @@ My life quote is `"Jack of all trades, master of none"`
 ---
 ## About me
 ---
-* 🏫 I am about to finish high-school
 * 🖥️ Fullstack developer with interests in electronics
 * 👨‍💻 I know basic penetrations techniques and interested learns about cyber security
 
